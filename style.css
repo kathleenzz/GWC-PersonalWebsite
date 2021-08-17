@@ -1,0 +1,278 @@
+/* STYLE SECTIONING TAGS */
+body {
+ background-image: url(https://www.ilovewallpaper.ie/images/stars-wallpaper-blue-yellow-510963-p2198-3198_image.jpg); 
+}
+
+/* STYLE TEXT */
+
+/* elements and ID */
+h1 {
+  color: rgba(46, 118, 224, 0.75);
+  text-align: center;
+}
+
+#checkOut {
+  text-align: center;
+  background-color: pink;
+  width: auto;
+  margin: 0;
+
+}
+
+p { 
+  color: black;]
+  text-align: center;
+}
+
+
+a { 
+  color: red; 
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.5em;
+}
+
+#ex {
+  color: pink;
+  text-decoration: underline;
+  font-size: 1em;
+}
+
+#ghibli {
+  font-size: 1em;
+}
+
+ul {
+  list-style: none;
+  overflow: hidden;
+  padding-top: 0;
+  padding-bottom: 0;  
+}
+
+li {
+  display: inline;
+}
+
+li a {
+  font-size: 1.3 em;
+  padding: 1em;
+}
+
+li a:hover {
+  background-color:rgba(0, 136, 255, .5);
+}
+
+
+/* class */
+
+.right {
+  width: 1em;
+  float: right;  
+}
+
+.welcome {
+ text-align: center;
+ color: rgb(0, 136, 255);
+ font-size: 50px;
+}
+
+.blurb {
+  text-align: center;
+
+}
+
+.link {
+  text-align: center;
+}
+
+.spartan {
+  text-align: center;
+}
+
+.topbox {
+  text-align:left;
+  color:rgba(255, 0, 0, 0.5);
+  font-family:helvetica;
+}
+
+.leftside {
+  text-align: right;
+}
+
+.secret {
+  height: auto;
+  width: auto;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  padding-left: 2em;
+  padding-right: 2em;
+  margin: 2%;
+  text-align: center;
+  background-color: white;
+  border: 2px solid red;
+}
+
+.source {
+  text-align: center;
+}
+
+/* boxes */
+
+.box {
+  height: auto;
+  width: auto;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  padding-left: 2em;
+  padding-right: 2em;
+  margin: 2%;
+  background-color: whitesmoke;
+  text-align: center; 
+  border: 1px solid black
+}
+
+
+.box2 {
+  height: auto;
+  width: auto;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  padding-left: 2em;
+  padding-right: 2em;
+  margin: 2%;
+  background-color: whitesmoke;
+  border: 1px solid black; 
+}
+
+.box3 {
+  height: auto;
+  width: auto;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  padding-left: 2em;
+  padding-right: 2em;
+  margin: 2%;
+  background-color: whitesmoke;
+  text-align: center; 
+  border: 1px solid black
+}
+
+
+.box4 {
+  height: auto;
+  width: auto;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  padding-left: 2em;
+  padding-right: 2em;
+  margin: 2%;
+  background-color: whitesmoke;
+  text-align: center;
+  border: 1px solid black
+}
+
+.box5 {
+  height: auto;
+  width: auto;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  padding-left: 2em;
+  padding-right: 2em;
+  margin: 2%;
+  background-color: whitesmoke;
+  text-align: center;
+  border: 1px solid black
+}
+
+.box6 {
+  height: auto;
+  width: auto;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  padding-left: 2em;
+  padding-right: 2em;
+  margin: 2%;
+  background-color: whitesmoke;
+  text-align: center;
+  border: 1px solid black
+
+}
+
+.topbox {
+  height: 5%;
+  width: auto;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0;
+  background-color: whitesmoke;
+  border-bottom: 2px solid black
+}
+
+
+.bigbox {
+  height: auto;
+  width: auto;
+ padding-top: 0;
+ padding-bottom: 1em;
+ margin-left:5%;
+ margin-right: 5%;
+ margin-top: 2em;
+ background-color: pink;
+ border: 2px solid black;
+}
+
+.bigbox2 {
+  height: auto;
+  width: auto;
+  padding-top: 0;
+  padding-bottom: 1em;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 2em;
+  background-color: rgba(151, 184, 235, 0.5);
+  border: 2px solid black;
+}
+
+
+/* STYLE IMAGES */
+
+.howl {
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
+  width: 100%;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+  height:10%;
+}
+
+.placeholder {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  height: 20%;
+}
+
+
+/* STYLE NAV BAR */
+.navi {
+  text-align: center;
+  height: auto;
+  width: auto;
+  padding:0%;
+  margin: 0;
+  background-color: pink;
+  
+}
+
+.navi2 {
+  text-align: center;
+}
